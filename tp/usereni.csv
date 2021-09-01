@@ -1,0 +1,14 @@
+﻿lastname;firstname;username;password;OU
+Info;Stephane;sinfo;Eni12345*;OU=Informatique,OU=Nantes,OU=TP-ENI,DC=stella,DC=td1
+Sec;Sophie;ssec;Eni12345*;OU=Informatique,OU=Nantes,OU=TP-ENI,DC=stella,DC=td1
+Info;Samir;sainfo;Eni12345*;OU=Informatique,OU=Nantes,OU=TP-ENI,DC=stella,DC=td1
+Prod;Philippe;pprod;Eni12345*;OU=Production,OU=Vertou,OU=TP-ENI,DC=stella,DC=td1
+Prod;Pascal;paprod;Eni12345*;OU=Production,OU=Vertou,OU=TP-ENI,DC=stella,DC=td1
+Prod;Paul;pauprod;Eni12345*;OU=Production,OU=Vertou,OU=TP-ENI,DC=stella,DC=td1
+Prod;Isabelle;Iprod;Eni12345*;OU=Interimaire,OU=Vertou,OU=TP-ENI,DC=stella,DC=td1
+Com;Camille;ccamille;Eni12345*;OU=Secretaire,OU=Rennes,OU=TP-ENI,DC=stella,DC=td1
+Com;Claude;clcom;Eni12345*;OU=Commercial,OU=Rennes,OU=TP-ENI,DC=stella,DC=td1
+Com;Corentin;cocom;Eni12345*;OU=Commercial,OU=Rennes,OU=TP-ENI,DC=stella,DC=td1
+Com;Ines;Icom;Eni12345*;OU=Interimaire,OU=Rennes,OU=TP-ENI,DC=stella,DC=td1
+
+
